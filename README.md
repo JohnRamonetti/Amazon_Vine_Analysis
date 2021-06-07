@@ -5,7 +5,7 @@ MODULE 16 Big Data - Challenge
 ### PURPOSE:  The purpose of the current analysis was to determine whether there is any bias toward favorable reviews from Amazon Vine members.  Specifically, we looked at reviews in the "US Pet Products" category.  Reviews were acquired from [Amazon AWS] (https://s3.amazonaws.com/amazon-reviews-pds/tsv/index.txt).  Using PySpark, Amazon RDS and pgAdmin, the reviews were Extracted, Transformed and Loaded.  Then, again using PySpark, the data was analyzed to determine whether any bias is seen in the reviews.
 
 ## RESOURCES
-  - Sources Files: [AmazonAWS US Pet Product Reviews] (https://s3.amazonaws.com/amazon-reviews-pds/tsv/amazon_reviews_us_Pet_Products_v1_00.tsv.gz) 
+  - Sources Files: [AmazonAWS US Pet Product Reviews](https://s3.amazonaws.com/amazon-reviews-pds/tsv/amazon_reviews_us_Pet_Products_v1_00.tsv.gz) 
   - Software:  PySpark, pgAdmin/postgreSQL, Amazon AWS (RDS and S3)
  
 
