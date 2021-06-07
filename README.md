@@ -10,7 +10,7 @@ MODULE 16 Big Data - Challenge
  
 
 ## [RESULTS](Images/Data_Results.png)
-#### After extraction of the [raw data](Images/Full_data.png), and transformation to a useful ["vine_table"](Images/Vine.png) containing only relevant columns, the data was further limited to reviews receiving at least 20 votes (total_votes >=20), and where there are at least 50% helpful votes.  There were a total of 38,010 reviews in this [reduced dataset](Images/20votes_50percent.png).
+#### After [extraction of the raw data](Images/Full_data.png), and transformation to a useful ["vine_table"](Images/Vine.png) containing only relevant columns, the data was further limited to reviews receiving at least 20 votes (total_votes >=20), and where there are at least 50% helpful votes.  There were a total of 38,010 reviews in this [reduced dataset](Images/20votes_50percent.png).
 
 #### VINE reviews
   - There were a total of 170 reviews by Vine members.
