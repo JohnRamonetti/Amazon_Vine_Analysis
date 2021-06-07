@@ -9,7 +9,7 @@ MODULE 16 Big Data - Challenge
   - Software:  PySpark, pgAdmin/postgreSQL, Amazon AWS (RDS and S3)
  
 
-## RESULTS
+## [RESULTS](Images/Data_results.png)
 #### After extraction of the raw data(), and transformation to a useful "vine_table" containing only relevant columns, the data was further limited to reviews receiving at least 20 votes (total_votes >=20), and where there are at least 50% helpful votes.  There were a total of 38,010 reviews in this reduced dataset.
 
 #### VINE reviews
