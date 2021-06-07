@@ -19,7 +19,7 @@ MODULE 16 Big Data - Challenge
 
 
 #### NON-VINE reviews
-  - There were a tatla of 37,840 reviews by non-Vine members.
+  - There were a total of 37,840 reviews by non-Vine members.
   - Of those reviews, 20,612 reviews gave the product 5 stars.
   - The percentage of 5-star reviews given by NON-Vine reviewers was 54%.
 
